@@ -300,3 +300,6 @@ Utilizado internamente para:
 Jhonatan Bernardino da Silva
 
 Analista NOC | Infraestrutura de Redes | Linux | Zabbix | Grafana | Automação
+
+<img width="1069" height="527" alt="av - Copia" src="https://github.com/user-attachments/assets/b2da274a-9325-4510-b45a-19e41a945f07" />
+
